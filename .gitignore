@@ -100,3 +100,4 @@ logs
 .system_generated/
 *.tmp
 *.bak
+.git_commit_sheduled.md

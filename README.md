@@ -459,11 +459,7 @@ The following issues were identified and fixed in this repository:
 ## 📸 Screenshots
 
 <div style="display: flex; flex-direction: row; overflow-x: scroll">
-  <img width="1470" alt="Landing Page" src="https://github.com/user-attachments/assets/653e1d2e-d18c-4a40-9394-047a12ea9674" />
-  <img width="1467" alt="Dashboard" src="https://github.com/user-attachments/assets/a34ef4c7-e1af-4c2b-9869-6f970c09e5bf" />
-  <img width="1470" alt="Case View" src="https://github.com/user-attachments/assets/ed2edff6-c953-47ec-b61e-23f8915d11ec" />
-  <img width="1470" alt="Risk Assessment" src="https://github.com/user-attachments/assets/323eaa70-bc01-4717-b0df-5752a53e39ce" />
-  <img width="1459" alt="Analytics" src="https://github.com/user-attachments/assets/39c2b516-ae1f-49b9-843e-b29162e7e4f5" />
+  
 </div>
 
 ---
@@ -484,6 +480,6 @@ The following issues were identified and fixed in this repository:
 
 ## 📜 License
 
-Copyright (c) 2025 PartTimeHumans. All rights reserved.
+Copyright (c) 2026 . All rights reserved.
 
 This project is proprietary and may not be used, reproduced, or modified without explicit permission from the PartTimeHumans team.
