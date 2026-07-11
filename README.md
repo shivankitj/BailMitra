@@ -438,23 +438,6 @@ You can also register a new account via the `/register` page.
 
 ---
 
-## 🔧 Known Issues & Fixes Applied
-
-The following issues were identified and fixed in this repository:
-
-1. **❌ Middleware folder name mismatch** — The folder was named `middlewares/` (plural) but all route files imported from `../middleware/` (singular). **Fixed:** Renamed the folder to `middleware/`.
-
-2. **❌ Missing backend dependencies** — `package.json` had no dependencies listed. **Fixed:** Added `express`, `mongoose`, `cors`, `dotenv`, `bcryptjs`, `jsonwebtoken`, and `nodemon`.
-
-3. **❌ Missing `applications` route registration** — `backend/routes/applications.js` existed but was not imported or mounted in `server.js`. **Fixed:** Added the import and mount at `/api/applications`.
-
-4. **❌ Port mismatch** — Frontend calls `http://localhost:4000` but backend defaults to port `6000`. **Fix:** Set `PORT=4000` in your `backend/.env` file.
-
-5. **❌ Missing `requirements.txt` for ML** — Python dependencies were not documented. **Fixed:** Created `ML/requirements.txt` with all required packages.
-
-6. **❌ Missing `.env.example` files** — No template existed for environment variables. **Fixed:** Added `.env.example` for both `backend/` and `ML/`.
-
----
 
 ## 📸 Screenshots
 
@@ -482,4 +465,3 @@ The following issues were identified and fixed in this repository:
 
 Copyright (c) 2026 . All rights reserved.
 
-This project is proprietary and may not be used, reproduced, or modified without explicit permission from the PartTimeHumans team.
