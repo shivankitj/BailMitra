@@ -445,14 +445,6 @@ You can also register a new account via the `/register` page.
   
 </div>
 
----
-
-## 🏆 Achievements
-
-- 📄 Recognized for innovative application of AI in legal automation
-- 👨‍⚖️ Targeting over **4.5 lakh undertrials** to accelerate access to bail
-
----
 
 ## 🤝 Collaborators
 
